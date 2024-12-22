@@ -1,6 +1,6 @@
 # BBN-simple
 Code repository for a simple and pedagogical Big Bang Nucleosynthesis code.
 
-The paper is located here [arXiv link].
+The paper is located on the arXiv [here](https://arxiv.org/abs/2412.07893).
 
-The jupyter-book is hosted here [https://public.websites.umich.edu/~aidanmw/bbn-simple.html].
+The jupyter-book is hosted [here](https://public.websites.umich.edu/~aidanmw/bbn-simple.html).
