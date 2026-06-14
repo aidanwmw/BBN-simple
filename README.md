@@ -1,11 +1,18 @@
 # BBN-simple: How to Bake a Universe-Sized Cake
 
+
+
 [![arXiv](https://img.shields.io/badge/arXiv-2412.07893-b31b1b.svg)](https://arxiv.org/abs/2412.07893)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 
 > A pedagogical, from-scratch Big Bang Nucleosynthesis code aimed at an advanced undergraduate or beginning graduate level.
 
-Paper: [arXiv:2412.07893](https://arxiv.org/abs/2412.07893)
+The paper may be found here [arXiv:2412.07893](https://arxiv.org/abs/2412.07893)
+
+<p align="center">
+<img src="figures/bbn_abundances.png" width=50% height=50%>
+</p>
+
 
 ## Abstract
 
@@ -34,13 +41,8 @@ The notebook walks through every step of a BBN calculation:
 
 4. **Full Nuclear Network** — Coupled ODE integration of all major species (n, p, d, t, He-3, He-4, Li-7, Be-7) using REACLIB strong reaction rate fits.
 
-5. **Results** — The classic BBN abundance-vs-time plot, showing the freeze-out of each species and their (approximate) final primordial abundances.
+5. **Results** — The classic BBN abundance-vs-time plot, showing the freeze-out of each species and their (approximate) final primordial abundances, which are in decent agreement with precision codes, given our approximations.
 
-## Results
-
-![Abundance evolution](figures/)
-
-The code reproduces the standard BBN results: Yp $\approx 0.24$, D/H $\approx$ 2.6 \times 10^{-5}$, in reasonable agreement with precision codes like ParthenoPE and AlterBBN, given our approximations (see the paper for detailed comparison).
 
 ## Citing
 
