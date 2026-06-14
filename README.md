@@ -1,7 +1,7 @@
 # BBN-simple: How to Bake a Universe-Sized Cake
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.07893-b31b1b.svg)](https://arxiv.org/abs/2412.07893)
-[![Site](https://img.shields.io/badge/Hosted-Notebook-orange.svg)](http://aidanwmw.github.io)
+[![Site](https://img.shields.io/badge/Hosted-Notebook-green.svg)](http://aidanwmw.github.io)
 
 > A pedagogical, from-scratch Big Bang Nucleosynthesis code aimed at an advanced undergraduate or beginning graduate level.
 
