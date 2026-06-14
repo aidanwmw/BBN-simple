@@ -47,7 +47,7 @@ The notebook walks through every step of a BBN calculation:
 If you use this code or the associated paper, please cite:
 
 ```bibtex
-@article{Meador-Woodruff:2024bbn,
+@article{Meador-WoodruffHuterer:2024bbn,
     author = "Meador-Woodruff, Aidan and Huterer, Dragan",
     title = "{BBN-simple: How to Bake a Universe-Sized Cake}",
     eprint = "2412.07893",
