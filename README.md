@@ -1,22 +1,20 @@
 # BBN-simple: How to Bake a Universe-Sized Cake
 
-
-
 [![arXiv](https://img.shields.io/badge/arXiv-2412.07893-b31b1b.svg)](https://arxiv.org/abs/2412.07893)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+[![Site](https://img.shields.io/badge/Hosted-Notebook-orange.svg)](http://aidanwmw.github.io)
 
 > A pedagogical, from-scratch Big Bang Nucleosynthesis code aimed at an advanced undergraduate or beginning graduate level.
 
-The paper may be found here [arXiv:2412.07893](https://arxiv.org/abs/2412.07893)
-
 <p align="center">
-<img src="figures/bbn_abundances.png" width=50% height=50%>
+<img src="figures/bbn_abundances.png" width=45% height=45%>
 </p>
 
 
 ## Abstract
 
 Big Bang Nucleosynthesis (BBN), the process of creation of lightest elements in the early universe, is a highly robust, precise, and ultimately successful theory that forms one of the three pillars of the standard hot-Big-Bang cosmological model. Existing theoretical treatments of BBN and the associated computer codes are accurate and flexible, but are typically highly technical and opaque, and not suitable for pedagogical understanding of the BBN. Here we present BBN-simple, a from-scratch, minimum requirement, numerical calculation of the lightest element abundances pitched at an advanced undergraduate or beginning graduate level.
+
+The paper may be found here [arXiv:2412.07893](https://arxiv.org/abs/2412.07893).
 
 ## Background
 
